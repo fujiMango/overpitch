@@ -1,9 +1,9 @@
 ---
-title: "What is Overpit.ch?"
+title: "What is Overpitch?"
 meta_title: "Community Run Flesh and Blood Content"
 image: src/content/about/20241122_162013.webp
 draft: false
-
+---
 Project Goals:
   title: "Written FaB Strategy Articles"
   items:
@@ -14,5 +14,4 @@ Project Goals:
     description: "Aenean maximus urna magna elementum, quis rutrum mi semper non purus eget ipsum venenatis."
   
 
----
 
