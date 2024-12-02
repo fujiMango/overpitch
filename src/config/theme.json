@@ -3,8 +3,8 @@
     "default": {
       "theme_color": {
         "primary": "#d65c5c",
-        "body": "#ffffff",
-        "border": "#2b3030",
+        "body": "#333333",
+        "border": "#ffffff",
         "theme_light": "#ffffff",
         "theme_dark": "#ffffff"
       },
