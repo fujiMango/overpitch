@@ -1,6 +1,6 @@
 ---
 title: Ethan Emes
-image: /images/authors/authorpageEmes.png
+image: /images/authors/authorpageEmes.jpg
 description: Editor in Chief
 social:
   youtube: https://www.youtube.com/@LGSHeroes
