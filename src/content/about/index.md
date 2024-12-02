@@ -1,23 +1,18 @@
 ---
-title: "I’m John Doe, A content writer based in LDN, Currently at Bookworm"
-meta_title: "About"
-image: "/images/author.png"
+title: "What is Overpit.ch?"
+meta_title: "Community Run Flesh and Blood Content"
+image: "https://media.discordapp.net/attachments/1270964815581417552/1309695439242792970/20241122_162011.jpg?ex=674e61ed&is=674d106d&hm=79db2910774d287725fa65d4bacc361c658c54860434ab404dc6f26d1d894059&=&format=webp&width=988&height=741"
 draft: false
 
-what_i_do:
-  title: "What I Do"
+Project Goals:
+  title: "Written FaB Strategy Articles"
   items:
-  - title: "Content Writing"
-    description: "Purus eget ipsum elementum venenatis, quis rutrum mi semper nonpurus eget ipsum elementum venenatis."
+  - title: "Written Materials"
+    description: "Ideas from the forefront of the Flesh and Blood community."
   
-  - title: "Photography"
+  - title: "Recorded Gameplay"
     description: "Aenean maximus urna magna elementum, quis rutrum mi semper non purus eget ipsum venenatis."
   
-  - title: "Web Research"
-    description: "Aenean maximus urna magna elementum venenatis, quis semper non purus eget ipsum venenatis."
 
 ---
 
-A content writer with over 12 years experience working across brand identity, publishing and digital products. Maecenas sit amet purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis quis non purus.
-
-Purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget ipsum elementum venenatis, aenean maximus urna magna elementum.
