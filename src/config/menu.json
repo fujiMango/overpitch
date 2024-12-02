@@ -5,12 +5,16 @@
       "url": "/"
     },
     {
-      "name": "About",
-      "url": "/about"
+      "name": "Categories",
+      "url": "/categories"
     },
     {
-      "name": "Contact",
-      "url": "/contact"
+      "name": "Tags",
+      "url": "/tags"
+    },
+    {
+      "name": "About",
+      "url": "/about"
     },
     {
       "name": "Pages",
@@ -22,13 +26,9 @@
           "url": "/authors"
         },
         {
-          "name": "Categories",
-          "url": "/categories"
-        },
-        {
-          "name": "Tags",
-          "url": "/tags"
-        }
+          "name": "Contact",
+          "url": "/contact"
+        }    
       ]
     }
   ],
