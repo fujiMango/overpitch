@@ -4,14 +4,14 @@
       "theme_color": {
         "primary": "#d65c5c",
         "body": "#333333",
-        "border": "#ffffff",
-        "theme_light": "#ffffff",
-        "theme_dark": "#ffffff"
+        "border": "#595959",
+        "theme_light": "#FAFAFA",
+        "theme_dark": "#152035"
       },
       "text_color": {
-        "default": "#ffffff",
-        "dark": "#ffffff",
-        "light": "#ffffff"
+        "default": "#747577",
+        "dark": "#152035",
+        "light": "#a1a5ae"
       }
     }
   },
