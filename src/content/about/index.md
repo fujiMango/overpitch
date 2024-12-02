@@ -1,23 +1,23 @@
 ---
-title: "Overpit.ch: Community Run Flesh and Blood Musings"
+title: "I’m John Doe, A content writer based in LDN, Currently at Bookworm"
 meta_title: "About"
 image: "/images/author.png"
-draft: true
+draft: false
 
-what_is_overpitch:
-  title: "What is Overpitch"
+what_i_do:
+  title: "What I Do"
   items:
-  - title: "Strategy Articles"
-    description: "Here at Overpit.ch we host those passionate for competitive flesh and blood."
+  - title: "Content Writing"
+    description: "Purus eget ipsum elementum venenatis, quis rutrum mi semper nonpurus eget ipsum elementum venenatis."
   
-  - title: "Meta Analysis"
-    description: "Analysis of FaB's metas as they evolve, as well as analyses of the game as a whole."
+  - title: "Photography"
+    description: "Aenean maximus urna magna elementum, quis rutrum mi semper non purus eget ipsum venenatis."
   
-  - title: "Video Content"
-    description: "Tabletop gameplay videos and more in the works."
+  - title: "Web Research"
+    description: "Aenean maximus urna magna elementum venenatis, quis semper non purus eget ipsum venenatis."
 
 ---
 
-We built Overpit.ch to democratize competitive FaB writing. Here we aim to come together as a community to share our insights.
+A content writer with over 12 years experience working across brand identity, publishing and digital products. Maecenas sit amet purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis quis non purus.
 
-Get involved and submit your own articles and you may come to find yourself among our pages.
+Purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget ipsum elementum venenatis, aenean maximus urna magna elementum.
