@@ -2,7 +2,7 @@
 title: "Calling Portland Top 16 Tournament Review: Aurora"
 description: "Tommy shares his experience making top 16 at The Calling: Portland"
 date: 2024-12-01
-image: "https://cdn.discordapp.com/attachments/1270964815581417552/1310414186945183765/20241124_171728.jpg?ex=674e5c50&is=674d0ad0&hm=387a57bc4f6e37f400b37791ed6f8250507b0b54dd7edeb5f6d7b42a22d471c6&"
+image: "https://i.imgur.com/NYcZMTt.jpeg"
 categories: ["Classic Constructed"]
 authors: ["Tommyb5k"]
 tags: ["CC", "Comp REL", "Calling: Portland", "Tournament Report"]
