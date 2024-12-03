@@ -2,11 +2,11 @@
 title: "Falling for Commoner, Or: How I Learned to Stop Worrying and Love the Kodachi Lock"
 description: "No Calling? No Problem! Adventures in FaB's Cheapest Format"
 date: 2022-12-02
-image: "/images/posts/01.jpg"
+image: "https://json.fabrec.gg/cardmeta/cardfaces/IRA009.jpg"
 categories: ["Commoner"]
 authors: ["Ethan Emes"]
 tags: ["Casual REL", "Commoner","Calling: Portland", "Tournament Report"]
-draft: true
+draft: false
 ---
 
 ### Unlike some, I did not day 2 Calling: Portland.
@@ -26,4 +26,4 @@ draft: true
   From the fantastic people that populated those tables to the simple beauty of math, my day grinding Commoner left me deeper in love with FaB than I had ever been before. The tight decisions and their low-visibility/high-impact dichotomy left me leaving each round with a new lesson. In my (many) mirror-matches of the day, I could appreciate the openness within these micro-decisions. It is not uncommon for TCGs to trend towards consistency as a means to perform, with each game echoing the last. I thought I knew what that meant before my baptism by kodachi, but by the time I left the hall that night I had a new appreciation not just for Flesh and Blood, but for card games as a whole. Every moment in every matchup had myriad potential decisions, each with invisible consequences that could (and often did) determine the outcome of the game. 
 
 ### When Ira Holds Your Heart, Will She Judge you Lightly?
-  Now, I don't know what these revelations will mean for me long term. Commoner armories are rare at best, and enfranchised players want opportunities to exercise their investment, not play with draft chaff. 
+  Now, I don't know what these revelations will mean for me long term. Commoner armories are rare at best, and enfranchised players want opportunities to exercise their investment, not play with draft chaff. Even if it is true that Commoner will likely never move past its place as a curiousity, I consider the increasing support for Commoner in larger events a blessing for all of us who love this game. Not long after my experience with Commoner in Portland, I went home to visit family for Thanksgiving. There I had the chance to share my love for FaB with people that I love, and of course I brought my Commoner decks.
