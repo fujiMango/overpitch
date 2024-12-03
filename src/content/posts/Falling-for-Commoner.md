@@ -1,7 +1,7 @@
 ---
 title: "Falling for Commoner, Or: How I Learned to Stop Worrying and Love the Kodachi Lock"
 description: "No Calling? No Problem! Adventures in FaB's Cheapest Format"
-date: 2022-12-02
+date: 2024-12-02
 image: "https://json.fabrec.gg/cardmeta/cardfaces/IRA009.jpg"
 categories: ["Commoner"]
 authors: ["Ethan Emes"]
