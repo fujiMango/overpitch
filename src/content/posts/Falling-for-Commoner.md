@@ -2,7 +2,7 @@
 title: "Falling for Commoner, Or: How I Learned to Stop Worrying and Love the Kodachi Lock"
 description: "No Calling? No Problem! Adventures in FaB's Cheapest Format"
 date: 2024-12-02
-image: "https://json.fabrec.gg/cardmeta/cardfaces/IRA009.jpg"
+image: "https://i.imgur.com/OcpCvP5.jpeg"
 categories: ["Commoner"]
 authors: ["Ethan Emes"]
 tags: ["Casual REL", "Commoner","Calling: Portland", "Tournament Report"]
