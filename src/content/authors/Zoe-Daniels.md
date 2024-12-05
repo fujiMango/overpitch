@@ -1,7 +1,7 @@
 ---
-title: Zoe Daniels
-image: /images/image-placeholder.png
-description: Cosplayer, Dash IRL, Redhead.
+title: "Zoe Daniels"
+image: "/images/image-placeholder.png"
+description: "Cosplayer, Dash IRL, Redhead."
 social:
   facebook: ""
   twitter: ""
