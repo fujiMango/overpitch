@@ -1,5 +1,5 @@
 ---
-title: Shapeshifters of Rathe: My FAB Cosplayer Origin Story
+title: "Shapeshifters of Rathe: My FAB Cosplayer Origin Story"
 description: "Zoe Shares the Power of Cosplay"
 date: 2024-12-05
 image: "/images/posts/03.jpg"
