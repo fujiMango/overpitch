@@ -1,7 +1,7 @@
 ---
 title: Shapeshifters of Rathe: My FAB Cosplayer Origin Story
 description: "Zoe Shares the Power of Cosplay"
-date: 2022-04-03T06:00:00+00:00
+date: 2024-12-05
 image: "/images/posts/03.jpg"
 categories: ["Cosplay"]
 authors: ["Zoe Daniels"]
