@@ -4,7 +4,7 @@ description: "Zoe Shares the Power of Cosplay"
 date: 2024-12-05
 image: "/images/posts/03.jpg"
 categories: ["Cosplay"]
-authors: []
+authors: ["Ethan Emes"]
 tags: ["Casual REL", "Creative", "Pro-Tour: Los Angeles"]
 draft: true
 ---
