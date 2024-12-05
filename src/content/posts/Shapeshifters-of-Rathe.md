@@ -1,15 +1,16 @@
 ---
-title: FAB Cosplayer Origin Story
-description: "meta description"
+title: Shapeshifters of Rathe: My FAB Cosplayer Origin Story
+description: "Zoe Shares the Power of Cosplay"
 date: 2022-04-03T06:00:00+00:00
 image: "/images/posts/03.jpg"
-categories: ["art"]
-authors: ["Mark Dinn"]
-tags: ["diy", "toy"]
+categories: ["Cosplay"]
+authors: ["Zoe Daniels"]
+tags: ["Casual REL", "Creative", "Pro-Tour: Los Angeles"]
 draft: true
 ---
 
-My cosplay history can be boiled down to the occasional casual cosplay worn to a convention or for some silly OC TikTok’s to fill the void of the pandemic lockdown. During that time, cosplay was a wonderful escape for me. I loved to bring my original (mostly dungeons and dragons) characters to life and show them off to the world (the 500 followers on TikTok that were slowly gained over three years). My cosplays were mostly pieces cobbled together from a stash of old Halloween costumes. The rest were pieces bought from Amazon to fill the void by spending money. I saw it as a perfect chance to dive into my SFX makeup fixation that wasn't being fed by my shitty college “stage makeup” class (that I could have taught better than the very unqualified professor). 
+### My cosplay history 
+could be boiled down to the occasional casual cosplay worn to a convention or for some silly OC TikTok’s to fill the void of the pandemic lockdown. During that time, cosplay was a wonderful escape for me. I loved to bring my original (mostly dungeons and dragons) characters to life and show them off to the world (the 500 followers on TikTok that were slowly gained over three years). My cosplays were mostly pieces cobbled together from a stash of old Halloween costumes. The rest were pieces bought from Amazon to fill the void by spending money. I saw it as a perfect chance to dive into my SFX makeup fixation that wasn't being fed by my shitty college “stage makeup” class (that I could have taught better than the very unqualified professor). 
 
 All this to say, I loved casual cosplay and had so much fun with it until the world started to open up again. I started having less time as the commute to school continued and my class load increased. 
 
