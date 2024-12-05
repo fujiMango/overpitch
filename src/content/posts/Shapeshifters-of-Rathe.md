@@ -4,7 +4,7 @@ description: "Zoe Shares the Power of Cosplay"
 date: 2024-12-05
 image: "/images/posts/03.jpg"
 categories: ["Cosplay"]
-authors: ["Ethan Emes"]
+authors: ["Zoe Daniels"]
 tags: ["Casual REL", "Creative", "Pro-Tour: Los Angeles"]
 draft: true
 ---
@@ -12,16 +12,19 @@ draft: true
 ###  The World Was Ending and I Looked Fantastic
 During the COVID-19 lockdown, cosplay was a wonderful escape for me. I loved to bring my original (mostly Dungeons & Dragons) characters to life and show them off to the 500 followers on TikTok that I fought tooth-and-nail for over the course of three years. My cosplays were cobbled together from a stash of old Halloween costumes supplemented by online shopping habits that sought to fill the void by spending money. 
 
-My cosplay history could be boiled down to the occasional casual convention cosplay and some silly OC TikToks to fill the void of the pandemic lockdown. I saw cosplay as the perfect medium to dive into my SFX makeup fixation that wasn't satiated by my shitty college “stage makeup” class. All this to say, I loved casual cosplay and had so much fun with it until the world started to open up again. I started having less time as the commute to school continued and my class load increased. 
+Coming from my background in theater, I saw cosplay as the perfect medium to explore my SFX makeup fixation. Unsatisfied by my shitty college “stage makeup” class, turned to casual cosplay and threw myself into it until the world started to open up again. As the commute to school continued and my class load increased, I found myself with less and less time to work with. I was on track to abandon my budding love of cosplay.
 
 ### Then ProTour LA happened.
 
-My partner made plans to go to ProTour LA this year, road-tripping from NorCal to share an Airbnb with 7 other gamers. I, being in SoCal already, took the train from San Diego to LA for the weekend to join them. In the planning stages for this trip, I had toyed with the idea of cosplaying my favorite FaB hero: Dash. Due to the unfortunate reality of being a broke college student, I was on a tight budget. So, Dash’s young art was the way to go. Over a few weeks, I ordered a cheap Amazon corset and bought a pair of jean shorts from Target. Those were the only two things I had to purchase premade for that Cosplay. I splurged on some muslin fabric that was on sale at Joann’s to make a shirt. 
+When my partner, [who's FaB obsession had its own moment recently](https://overpit.ch/tournament_report-aurora), made plans to go to ProTour LA earlier this year, I was reminded of my stint in cosplay.  I had toyed with the idea of cosplaying my favorite FaB hero, *Dash Inventor Extraordinaire*, before the trip, and suddenly I was no longer just thinking about it. While I had high aspirations of steampunk-techno overload, the unfortunate reality of being a broke college student meant I was on a tight budget. I decided Dash’s young art was the way to go, and new that together we could bring more to this cosplay than expensive materials ever would. Over a the next few weeks, I pieced together my outfit around a cheap corset and a pair of jean shorts. Those were the only two things I had to purchase premade for that Cosplay. I splurged on some muslin fabric that was on sale at Joann’s to make a shirt. 
 
 ### That shirt was a process
 After hours of rummaging online for the perfect shirt, I said screw it and decided to give a go at making one myself. I scrolled through Etsy and found a pattern for a Howl’s Moving Castle peasant shirt. Some important context: I have only ever successfully sewn one piece of clothing for myself before, a simple elastic skirt for the Renaissance Faire. Thankfully, I was living with an experienced high school and college theatrical costumer at the time. Their skills far exceeded mine, and I would not have been able to make the shirt without them. I nearly lost my mind figuring out exactly what I was doing wrong with the pattern (it had a ruffle. I did not want the ruffle.) My housemate, bless them, had to ask me to step away from the pins to let them do it. I happily obliged. I am proud to say, however, that I successfully made the collar of that shirt by myself. A true accomplishment in my mind. They managed to save the shirt after many hours of reworking the pattern so it wouldn’t look odd on me. It was a success! 
 
 The rest of the pieces for the cosplay were found by rummaging in my costume bins: black fingerless gloves (close enough), steampunk goggles, and some plain brown boots I thrifted two years before. I could have done much more with this cosplay if I wasn’t such a serial procrastinator and a full-time theatre major doing two to three shows at a time with a job as well. Had I the energy, I would have put effort into leg and arm pieces. 
+
+(road-tripping from NorCal to share an Airbnb with 7 other gamers)
+Being in SoCal already, I hopped on the train from San Diego to LA to join them.
 
 My partner made up for my lack of those pieces though, and 3D printed her Teklo Plasma Pistol for me, and painted it the night before driving 8 hours to LA. Now, bear in mind, this was supposed to be a casual cosplay for shits and giggles. I had no real intention of anything coming from it than maybe a couple of compliments and a fun time. I cosplayed on Friday, playing in a couple of side events as my beloved Kassai at the time. I didn’t get as many “Let me guess, you’re playing Dash?” comments as I thought I was going to. One of my last games of the day was against a lovely girl who asked if I had planned on participating in the cosplay competition. 
 
