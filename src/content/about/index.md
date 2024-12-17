@@ -1,7 +1,7 @@
 ---
 title: "What is Overpit.ch?"
 meta_title: "About"
-image: "/images/author.png"
+image: "public/images/image-placeholder.png"
 draft: false
 
 what_i_do:
