@@ -1,22 +1,14 @@
 ---
-title: "Banana is the best meal packages in the UK spark outrage online"
-description: "meta description"
-date: 2022-04-05T16:56:47+06:00
-image: "/images/posts/05.jpg"
+title: "The Elephant in the Marketplace: Competitive Flesh and Blood's Money Problem"
+description: "Flesh and Blood demands heavier investment every day, is that sustainable?"
+date: 2025-01-23
+image: "https://upload.wikimedia.org/wikipedia/commons/e/ed/Elephant%2C_from_the_Quadrupeds_series_%28N21%29_for_Allen_%26_Ginter_Cigarettes_MET_DP835112.jpg"
 draft: true
-authors: ["John Doe"]
-tags: ["Food", "Gold"]
-categories: ["Food"]
+authors: ["Ethan Emes"]
+tags: ["CC", "Theory"]
+categories: ["Thoughts"]
 ---
 
-A banana is an elongated, edible fruit – botanically a berry – produced by several kinds of large herbaceous flowering plants in the genus Musa. In some countries, bananas used for cooking may be called "plantains", distinguishing them from dessert bananas.
+### Nobody Said it would be Cheap
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-### Creative Design
-
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
-
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+The realities of the trading card game economy are not exacty something you'd want to disclose to a financial advisor.
