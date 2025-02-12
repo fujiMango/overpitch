@@ -1,13 +1,14 @@
 ---
 title: "The Southern Lights: Adapting Aurora for Memphis"
-description: "My Considerations for Aurora in Flesh and Blood World Tour: Memphis ."
+description: "My Considerations for Aurora in Flesh and Blood World Tour: Memphis"
 date: 2025-02-11
 image: "https://dhhim4ltzu1pj.cloudfront.net/media/images/aurora_cover.width-2000.format-webp.webp"
 categories: ["Classic Constructed"]
 authors: ["Tommyb5k"]
-tags: ["CC", "Comp REL", “World Tour: Memphis”, “Deck Tech”, "Aurora"]
+tags: ["CC", "Comp REL", "World Tour: Memphis", "Deck Tech", "Aurora"]
 draft: false
 ---
+
 ### For Memphis, I decided to play Aurora again. 
 I knew The Hunted would tempt me to switch to another hero. Especially once I learned more about the retrieve Ira deck lists utilizing **Up Sticks and Run** and **Pick Up the Point**. I love aggro and I love ninja, so that deck is absolutely on my radar going into Road to Nationals season. Though after playing some Ira, I still found that I preferred Aurora’s playstyle. Particularly **Channel Lightning Valley**, **Lightning Press**, and **Vaporize//Shock** are so fun and powerful it felt wrong playing without them (even if **Mask of Momentum** is a pseudo CLV). 
 Playing Aurora into a new meta meant starting from scratch, and while placing 15th at Portland was fantastic, I knew I had lost some edges in deck construction.
