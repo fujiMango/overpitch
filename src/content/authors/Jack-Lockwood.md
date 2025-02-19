@@ -1,6 +1,6 @@
 ---
 title: Jack Lockwood
-image: /images/image-placeholder.jpg
+image: /images/image-placeholder.png
 description: Levia Simp
 social:
   youtube: " "
